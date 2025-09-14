@@ -104,7 +104,8 @@ data-warehouse-project/
 ```
 ---
 
-## This Project is from Baraa khatib Zalkini, an amazing mentor who teaches complex data into simple and great manner.
+## This Project is from Baraa khatib Salkini, an amazing mentor who teaches complex data into simple and great manner.
+  The place is : DATA WITH BARAA(YOUTUBE)
 
 ## 🛡️ License
 
