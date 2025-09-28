@@ -1,4 +1,9 @@
--- use DataWarehouse;
+/*
+Usage Notes: 
+    >> Run these checks after loading data into silver layer.
+    >> Investigate and resolve any discrepancies found during the checks.
+
+*/
 
 /* ------------------------------------------------------------
 Checking the customer Info (bronze.crm_cust_info) table 
@@ -113,12 +118,7 @@ select *
 from silver.crm_prd_info
 where prd_start_dt > prd_end_dt ;
 
-/*
-Usage Notes: 
-    >> Run these checks after loading data into silver layer.
-    >> Investigate and resolve any discrepancies found during the checks.
 
-*/
 
 /* ------------------------------------------------------------
 Checking the sales Details (bronze.crm_sales_details) table 
